@@ -20,11 +20,11 @@ Data collected from [Visit website](https://www.kaggle.com/datasets/navjotkausha
 - **Charts** for trend and performance visualization  
 
 ## Insights  
-- Sales peaked in February and again in October, showing seasonal demand spikes.
-- Summer months (June-August) saw relatively lower sales, indicating a seasonal dip.
-- Peak sales happen between 8 AM and 11 AM — strong morning coffee demand.
-- Sales gradually decrease after 5 PM, meaning evening coffee consumption is lower.
-- Night and Afternoon sales are almost tied (~$38k each), with Morning slightly lower (~$35k). This indicates opportunities to boost morning sales with targeted promotions.
+- Sales peaked in February and again in October, showing seasonal demand spikes.  
+- Summer months (June-August) saw relatively lower sales, indicating a seasonal dip.  
+- Peak sales happen between 8 AM and 11 AM — strong morning coffee demand.  
+- Sales gradually decrease after 5 PM, meaning evening coffee consumption is lower.  
+- Night and Afternoon sales are almost tied (~$38k each), with Morning slightly lower (~$35k). This indicates opportunities to boost morning sales with targeted promotions.  
 - Latte ($26,875) and Americano with Milk ($24,751) dominate sales — clear customer favorites.  
 
 ## How to Use  
