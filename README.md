@@ -13,7 +13,7 @@ It includes **data cleaning**, **visualizations**, and **business insights** —
 ## Dataset  
 Data collected from [Visit website](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset).   
 
-## 🛠 Methods & Tools  
+## Methods & Tools  
 - **Excel** for dashboards
 - **Power Query** for cleaning and transforming data.  
 - **Pivot Tables** for deeper insight discovery
@@ -24,7 +24,7 @@ Data collected from [Visit website](https://www.kaggle.com/datasets/navjotkausha
 - Summer months (June-August) saw relatively lower sales, indicating a seasonal dip.  
 - Peak sales happen between 8 AM and 11 AM — strong morning coffee demand.  
 - Sales gradually decrease after 5 PM, meaning evening coffee consumption is lower.  
-- Night and Afternoon sales are almost tied (~$38k each), with Morning slightly lower (~$35k). This indicates opportunities to boost morning sales with targeted promotions.  
+- Night and Afternoon sales are almost tied. This indicates opportunities to boost morning sales with targeted promotions.  
 - Latte ($26,875) and Americano with Milk ($24,751) dominate sales — clear customer favorites.  
 
 ## How to Use  
