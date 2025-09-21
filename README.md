@@ -5,19 +5,19 @@ This project analyzes **coffee sales transactions** to uncover trends and action
 It includes **data cleaning**, **visualizations**, and **business insights** — all performed in **Excel**.  
 
 ## Key Features  
-- Data cleaning of raw coffee transaction data  
-- Power Query, Pivot tables and dashboards for sales analysis  
-- Visualizations: bar, line and trend charts  
-- Actionable sales insights for decision making  
+- Data cleaning of raw coffee transaction data.  
+- Power Query, Pivot tables and dashboards for sales analysis.  
+- Visualizations: bar, line and trend charts.  
+- Actionable sales insights for decision making.  
 
 ## Dataset  
 Data collected from [Visit website](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset).   
 
 ## Methods & Tools  
-- **Excel** for dashboards
+- **Excel** for dashboards.  
 - **Power Query** for cleaning and transforming data.  
-- **Pivot Tables** for deeper insight discovery
-- **Charts** for trend and performance visualization  
+- **Pivot Tables** for deeper insight discovery.  
+- **Charts** for trend and performance visualization.    
 
 ## Insights  
 - Sales peaked in February and again in October, showing seasonal demand spikes.  
